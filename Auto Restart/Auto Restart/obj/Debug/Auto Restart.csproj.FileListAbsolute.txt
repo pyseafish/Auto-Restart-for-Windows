@@ -1,0 +1,9 @@
+F:\Auto Restart\Auto Restart\bin\Debug\Auto Restart.exe.config
+F:\Auto Restart\Auto Restart\bin\Debug\Auto Restart.exe
+F:\Auto Restart\Auto Restart\bin\Debug\Auto Restart.pdb
+F:\Auto Restart\Auto Restart\obj\Debug\Auto Restart.csproj.AssemblyReference.cache
+F:\Auto Restart\Auto Restart\obj\Debug\Auto_Restart.Properties.Resources.resources
+F:\Auto Restart\Auto Restart\obj\Debug\Auto Restart.csproj.GenerateResource.cache
+F:\Auto Restart\Auto Restart\obj\Debug\Auto Restart.csproj.CoreCompileInputs.cache
+F:\Auto Restart\Auto Restart\obj\Debug\Auto Restart.exe
+F:\Auto Restart\Auto Restart\obj\Debug\Auto Restart.pdb
